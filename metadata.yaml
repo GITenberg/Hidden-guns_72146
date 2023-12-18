@@ -1,0 +1,29 @@
+_repo: Hidden-guns_72146
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Patterson, Henry W.
+    gutenberg_agent_id: '56565'
+    url: http://www.gutenberg.org/2009/agents/56565
+description: ''
+gutenberg_issued: '2023-11-16'
+identifiers:
+  gutenberg: '72146'
+language: en
+pgterms:marc904: https://archive.org/details/AdventureV042N0319230830
+pgterms:marc905: 20230817152721patterson
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aUnited States :$bThe Ridgway Company, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Trappers -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Hidden guns
+url: http://www.gutenberg.org/ebooks/72146
