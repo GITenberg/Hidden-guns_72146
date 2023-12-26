@@ -1,11 +1,16 @@
 _repo: Hidden-guns_72146
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72146-h/images/cover.jpg
 creator:
   author:
     agent_name: Patterson, Henry W.
     gutenberg_agent_id: '56565'
     url: http://www.gutenberg.org/2009/agents/56565
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72146#Hidden-guns
 gutenberg_issued: '2023-11-16'
 identifiers:
   gutenberg: '72146'
